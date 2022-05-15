@@ -22,6 +22,13 @@ h3{
     
 }
 
+h4{
+    color: black;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
 li{
     color: black;
     font-size: 18px;
@@ -56,4 +63,15 @@ p{
 
 #text-intro{
     margin-top: 10px;
+}
+
+.form-group{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.contact-image{
+    margin-right: auto;
+    margin-left: auto;
 }
