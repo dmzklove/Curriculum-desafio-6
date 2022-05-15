@@ -1,0 +1,59 @@
+*{
+    background-color: white;
+}
+
+h1{
+    color: black;
+    font-size: 52px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    color: black;
+    font-size: 38px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3{
+    color: black;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+li{
+    color: black;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+p{
+    color: black;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#nav{
+    color: white;
+}
+
+#profile-photo{
+    border-radius: 100px;
+}
+
+#linea{
+    border-top: 1px solid black;
+    width: 80%;
+    margin-left: 10vh;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+
+   
+
+#text-intro{
+    margin-top: 10px;
+}
